@@ -1,4 +1,4 @@
-id
+id <a href="https://travis-ci.org/r-lyeh/id"><img src="https://api.travis-ci.org/r-lyeh/id.svg?branch=master" align="right" /></a>
 ==
 
 - Lightweight compile-time string hashes and sequential IDs generator. Written in C++11.
