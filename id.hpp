@@ -1,6 +1,6 @@
 /*
  * Lightweight compile-time string hashes and sequential IDs generator.
- * Copyright (c) 2014, Mario 'rlyeh' Rodriguez. BOOST licensed.
+ * Copyright (c) 2014, Mario 'rlyeh' Rodriguez. zlib/libpng licensed.
  *
  * Contains code by Stefan 'Tivolo' Reinalter. Thanks dude! : )
  * - [ref] http://www.altdevblogaday.com/2011/10/27/quasi-compile-time-string-hashing/

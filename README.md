@@ -7,7 +7,7 @@ id <a href="https://travis-ci.org/r-lyeh/id"><img src="https://api.travis-ci.org
 - Tiny. Header only.
 - Cross platform.
 - No dependencies.
-- BOOST licensed.
+- zlib/libpng licensed.
 
 sample
 ------
