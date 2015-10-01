@@ -5,8 +5,8 @@ int f();
 
 int main() {
     // generate compile-time hash ids
-    std::cout << $id(HELLO_WORLD) << std::endl;
-    std::cout << $id(PLAYER_1) << std::endl;
+    std::cout << $id("HELLO_WORLD") << std::endl;
+    std::cout << $id("PLAYER_1") << std::endl;
 
     // generate sequential ids
     std::cout << $id() << std::endl;
